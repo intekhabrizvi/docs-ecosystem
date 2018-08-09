@@ -84,6 +84,14 @@ Framework Integrations
   - `MongoDB Extension for Yii 2
     <http://www.yiiframework.com/doc-2.0/ext-mongodb-index.html>`_ provides
     MongoDB integration for Yii framework 2.0.
+    
+ - CodeIgniter
+
+  - `MongoDB integration for CodeIgniter <https://github.com/intekhabrizvi/Codeigniter-mongo-library>`_.
+    MongoDB Library for Codeigniter with advance features like aggregation, journal, write concern and query profiling.
+    
+  - `MongoDB CodeIgniter Session Driver <https://github.com/intekhabrizvi/codeigniter-mongodb-session-driver>`_.
+    Use MongoDB collection to hold your Codeigniter based session data.
 
 Libraries for the ``mongo`` Extension
 -------------------------------------
